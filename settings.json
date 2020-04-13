@@ -1,0 +1,51 @@
+{
+  "walls": [
+    {
+      "start": {
+        "x": 10,
+        "y": 0
+      },
+      "end": {
+        "x": 10,
+        "y": 14
+      },
+      "radius": 0.3
+    },
+    {
+      "start": {
+        "x": 10,
+        "y": 16
+      },
+      "end": {
+        "x": 10,
+        "y": 30
+      },
+      "radius": 0.3
+    }
+  ],
+  "window_size_x": 30,
+  "window_size_y": 30,
+  "duration": 30,
+  "dt": 0,
+  "time_to_recover": 5,
+  "frac_unmovable": 0.25,
+  "nb_random_agents": 200,
+  "nb_random_sick": 1,
+  "death_proportion": 0.01,
+  "agents_start_speed": 3,
+  "agents_radius": 0.2,
+  "StartAgParam": [
+    {
+      "position": {
+        "x": 2,
+        "y": 2
+      },
+      "speed": {
+        "x": 0,
+        "y": 3
+      },
+      "state": 1,
+      "movable": true
+    }
+  ]
+}
