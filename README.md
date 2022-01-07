@@ -1,5 +1,7 @@
 # Modélisation d'une épidémie
 
+This has been remade in Go and WASM : https://github.com/AureClai/epidemie-WASM
+
 ---
 ## Contexte 
 
